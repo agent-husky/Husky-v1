@@ -1,0 +1,269 @@
+{"index": 0, "question": "What is the second derivative of 24864*h**3 + 124041*h wrt h?", "answer": "149184*h"}
+{"index": 1, "question": "Find the third derivative of 10*a*m**5 + 18*a - 39447*m**3 + 14305*m**2 wrt m.", "answer": "6*(100*a*m**2 - 39447)"}
+{"index": 2, "question": "Suppose -18 = 4*y - 2, 4*y + 22 = 2*b. Let n(q) be the second derivative of 0 - 1/3*q**4 + 7*q + b*q**2 - 5/3*q**3. Let n(w) = 0. Calculate w.", "answer": "[-3.00000000000000, 0.500000000000000]"}
+{"index": 3, "question": "Find the third derivative of -1698*a**3 - 472*a**2 wrt a.", "answer": "-10188"}
+{"index": 4, "question": "Find the second derivative of n**3*u**2 + 1539*n**3*u + 2*n**2*u**2 - 35816*n*u**2 + 13*n wrt u.", "answer": "2*n*(n**2 + 2*n - 35816)"}
+{"index": 5, "question": "Find the second derivative of -6*n*q**3*y - 3*n*q*y + 5*q**3*y - q**2*y - 33*q*y wrt q.", "answer": "2*y*(-18*n*q + 15*q - 1)"}
+{"index": 6, "question": "What is the third derivative of -31330*q**6 + 45798*q**2 wrt q?", "answer": "-3759600*q**3"}
+{"index": 7, "question": "Let i(u) be the first derivative of -u**3/3 - 5*u**2/2 + 16*u + 3. Let b be i(-7). Solve -10 = b*z - 0*z for z.", "answer": "-5"}
+{"index": 8, "question": "Suppose 2*k + 2*k - 4 = -w, 0 = 2*k - 3*w - 16. Let y be (-11)/(-4) - 2/(-8). Find the third derivative of 0 + k*h**6 + 7 - y*h**2 - 7 wrt h.", "answer": "240*h**3"}
+{"index": 9, "question": "What is the derivative of -18464921*y**3 - 5221497?", "answer": "-55394763*y**2"}
+{"index": 10, "question": "Let c(r) be the third derivative of 1/24*r**4 - 1/60*r**5 + 0 + 0*r**3 + 0*r - 3*r**2 - 1/120*r**6. Let s(o) = o**2 + 6*o + 3. Let i be s(-5). Calculate c(i).", "answer": "2.00000000000000"}
+{"index": 11, "question": "Let a(j) be the first derivative of 2/9*j**3 + 185 - 20*j + 1/3*j**2. Factor a(v).", "answer": "20.0*(0.166666666666667*v + 1.0)*(0.2*v - 1.0)"}
+{"index": 12, "question": "Differentiate 2*f*i**2*p + 164*f*i**2 + 2*f*i - 47*i**2*p wrt p.", "answer": "2*f*i**2 - 47*i**2"}
+{"index": 13, "question": "Find the second derivative of 12729*q**3 - 3*q + 768 wrt q.", "answer": "76374*q"}
+{"index": 14, "question": "Let l(b) be the second derivative of b**4/12 + 7*b**3/6 + 7*b**2 - 7*b. Let r be l(-5). Solve -y + 6 = -r*g + 8*g, 3*y - 5 = g for y.", "answer": "2"}
+{"index": 15, "question": "Let m(d) = 2*d - 36. Let s be m(22). Suppose -4*h = 2*z - 58, 0*h = h - 4*z + s. What is the second derivative of 5*w**4 + h*w - 11*w - 3*w**4 wrt w?", "answer": "24*w**2"}
+{"index": 16, "question": "What is the second derivative of -l**3*m + 39*l**2*m*u + 37308*l**2*u + 2*l*m + 3*m*u - 22127*m + 9*u wrt l?", "answer": "6*(-l*m + 13*m*u + 12436*u)"}
+{"index": 17, "question": "Let x(p) be the second derivative of p**6/255 + p**5/34 + p**4/34 - 5*p**3/51 - 4*p**2/17 - 12*p. Determine q, given that x(q) = 0.", "answer": "[-4, -1, 1]"}
+{"index": 18, "question": "Find the second derivative of -60*h**2*m**2 + 83820*h**2*m + 3*h**2 + 248*h*m**2 - 4*h*m + 4*h + 8*m**2 + 5*m + 3 wrt h.", "answer": "6*(-20*m**2 + 27940*m + 1)"}
+{"index": 19, "question": "Find the second derivative of -128*s**3*y**3 - s**3 - 12*s**2 + 2*y - 5 wrt y.", "answer": "-768*s**3*y"}
+{"index": 20, "question": "Suppose -2*z = -5*t - 28 - 1, 3*t - 4*z + 9 = 0. Let b(f) be the second derivative of -f**4/12 - 7*f**3/6 - 2*f. What is b(t)?", "answer": "0"}
+{"index": 21, "question": "Find the third derivative of -4*i*l**3 - 45*i*l**2 + i - l**3 wrt l.", "answer": "-6*(4*i + 1)"}
+{"index": 22, "question": "Let i(l) be the first derivative of l**3/3 - 4*l**2 + 10*l - 4. Let r be i(7). Solve r*h - h = 0 for h.", "answer": "0"}
+{"index": 23, "question": "Let v(y) be the first derivative of y**4 + 2*y**3/3 - y**2/2 + 186*y - 322. Find the second derivative of v(n) wrt n.", "answer": "4*(6*n + 1)"}
+{"index": 24, "question": "Let b(w) = -w**3 + w**2 + w - 1. Let c(s) = 13*s**4 - s**3 - 7*s**2 + s - 1. Let h(g) = b(g) - c(g). What is the third derivative of h(u) wrt u?", "answer": "-312*u"}
+{"index": 25, "question": "Find the first derivative of 8951 - 9826*d wrt d.", "answer": "-9826"}
+{"index": 26, "question": "Differentiate 24*h**2*k**2 + 54*h**2*k + 2*h**2 + 8584*h + 6*k**2 + 4 wrt k.", "answer": "48*h**2*k + 54*h**2 + 12*k"}
+{"index": 27, "question": "Differentiate 474528 - 64017*x**3 with respect to x.", "answer": "-192051*x**2"}
+{"index": 28, "question": "Find the third derivative of 5*u**2 + 10*u**2 - 6*u**3 - 6*u**2 wrt u.", "answer": "-36"}
+{"index": 29, "question": "Find the second derivative of -9*c**3 + 7*c**2*m + c*m + 3*c - m wrt c.", "answer": "2*(-27*c + 7*m)"}
+{"index": 30, "question": "What is the third derivative of -6*h**3*o**3 - 483*h**3*o - h**3 + 307*h**2*o**3 - 7*h*o**3 - 40*o**2 + 36*o wrt o?", "answer": "6*h*(-6*h**2 + 307*h - 7)"}
+{"index": 31, "question": "Let l(v) be the second derivative of 7*v**4/18 - 44*v**3/9 + v - 34. Factor l(d).", "answer": "2*d*(7*d - 44)/3"}
+{"index": 32, "question": "Suppose 0 = -46*b - 80*b + 26*b + 200. Let l(z) be the first derivative of 18*z + 0*z**3 - 13/4*z**4 - 1 + 0*z**b. Differentiate l(a) with respect to a.", "answer": "-39.0*a**2"}
+{"index": 33, "question": "Let h = 16 + 8. Suppose 2*m = 3*x - h, 0*x + 3*m + 15 = x. What is the derivative of x - 3 - d**4 + 0*d**4 + 0*d**4 wrt d?", "answer": "-4*d**3"}
+{"index": 34, "question": "Differentiate -4*i*j*v + 38*i*v + 10*i - j*v - 29*j - v - 18 with respect to i.", "answer": "-4*j*v + 38*v + 10"}
+{"index": 35, "question": "What is the second derivative of -14*b**5*y**2 + 38*b**2*y**2 + 121*b*y**2 + 5*b wrt b?", "answer": "4*y**2*(19 - 70*b**3)"}
+{"index": 36, "question": "Suppose 0 = 4*u - 3 - 9. Let y(a) = a**3 + 6*a**2 + 8*a + 2. Let o be y(-3). What is the third derivative of 2*h**2 + h**5 - u*h**o + 3*h**5 + h**2 wrt h?", "answer": "60*h**2"}
+{"index": 37, "question": "Let z(u) be the first derivative of 5*u**6/6 - 8*u**5 - 465*u**4/4 - 920*u**3/3 + 110*u**2 + 1200*u - 3464. Find o such that z(o) = 0.", "answer": "[-4, -2, 1, 15]"}
+{"index": 38, "question": "Find the second derivative of 2455*w**4 - 3073*w.", "answer": "29460*w**2"}
+{"index": 39, "question": "Differentiate -108*t**3 - 5849926*t**2 - 1531764915.", "answer": "-324*t**2 - 11699852*t"}
+{"index": 40, "question": "Find the second derivative of -308*b**3 - b + 82 wrt b.", "answer": "-1848*b"}
+{"index": 41, "question": "Let c(y) = -182*y**3 - 8*y + 73. Let b(u) = 121*u**3 + 5*u - 49. Let j(n) = 8*b(n) + 5*c(n). What is the first derivative of j(l) wrt l?", "answer": "174*l**2"}
+{"index": 42, "question": "Let u(n) = 5*n**2 + 7*n + 22. Let t(c) be the third derivative of c**5/15 + c**4/3 + 7*c**3/2 + 213*c**2. Let p(b) = 4*t(b) - 3*u(b). What is p(-8)?", "answer": "-6"}
+{"index": 43, "question": "What is the first derivative of t**3*x + 995*t**3 - 604*t**2*x + 155*t wrt x?", "answer": "t**3 - 604*t**2"}
+{"index": 44, "question": "Find the first derivative of -7*b*s**2*u**2 - 2*b*s**2 - 15*b*u**3 + 3*b*u + 9*s*u**3 - 2*u wrt s.", "answer": "-14*b*s*u**2 - 4*b*s + 9*u**3"}
+{"index": 45, "question": "What is the second derivative of -6*a**4 - 102*a**3*m**2 - 227*a*m - 8*m**2 wrt a?", "answer": "-36*a*(2*a + 17*m**2)"}
+{"index": 46, "question": "Let m(j) be the third derivative of -j**7/420 + j**6/120 + j**5/30 - j**4/24 - j**3/4 - 5*j**2. Suppose m(v) = 0. What is v?", "answer": "[-1, 1, 3]"}
+{"index": 47, "question": "Suppose -7*k - 2*o = -4*k - 301, 2*o + 475 = 5*k. What is the second derivative of -42*m - 2*m**4 - 12*m**5 - m**5 + 58*m + k*m wrt m?", "answer": "-4*m**2*(65*m + 6)"}
+{"index": 48, "question": "Suppose -4*r + 4*c - 16 = 0, 2*r + 2*r + 5*c = 20. Let q be -1*(0 + -2) + r. What is the second derivative of 20*j + 0*j**q + 4 + j**2 - 4 wrt j?", "answer": "2"}
+{"index": 49, "question": "Suppose -2*g + n - 9 = -2*n, 2*g = 2*n - 10. Let j(o) be the first derivative of o**3/3 + 3*o**2/2 - 5*o + 3. Determine j(g).", "answer": "13"}
+{"index": 50, "question": "Find the third derivative of 10*d**3*k**2 + 39016*d**3 + 2*d**2*k - 2*d**2 + 10142*d*k**2 - 2*d + 2 wrt d.", "answer": "12*(5*k**2 + 19508)"}
+{"index": 51, "question": "Find the third derivative of -566*l**3 + 158*l**2 wrt l.", "answer": "-3396"}
+{"index": 52, "question": "Let d(m) be the second derivative of 0*m**2 - 5/48*m**4 + 1/160*m**5 + 25/48*m**3 + 0 + 49*m. Let d(a) = 0. Calculate a.", "answer": "[0.0, 5.00000000000000]"}
+{"index": 53, "question": "Let d = -260 + 262. Let u(s) be the second derivative of 5*s + 0 + 1/3*s**d + 1/15*s**5 + 7/18*s**4 - 11/18*s**3 - 8/45*s**6 + 1/18*s**7. Factor u(m).", "answer": "2.33333333333333*(1.0*m - 1.0)**3*(1.0*m - 0.285714285714286)*(1.0*m + 1.0)"}
+{"index": 54, "question": "Let u(r) be the second derivative of -4*r**6/15 - r**4/12 - 7*r. Find the third derivative of u(l) wrt l.", "answer": "-192*l"}
+{"index": 55, "question": "Let y(l) be the first derivative of -9*l**5/5 - l**2 + 13. Find the second derivative of y(w) wrt w.", "answer": "-108*w**2"}
+{"index": 56, "question": "Find the second derivative of h**3 + 4310906*h**2 - 291*h - 2349.", "answer": "2*(3*h + 4310906)"}
+{"index": 57, "question": "Find the third derivative of -4092*a**3 + 1429*a**2 + 3*a + 2.", "answer": "-24552"}
+{"index": 58, "question": "Differentiate -268*o**3 + 177*o**2 - 2*o - 220027.", "answer": "-804*o**2 + 354*o - 2"}
+{"index": 59, "question": "Let m(r) be the third derivative of 5*r**4/12 - 185*r**3/6 - 209*r**2. Is 10 a factor of m(55)?", "answer": "False"}
+{"index": 60, "question": "Let i(x) be the third derivative of -5*x**6/24 + 35*x**4/24 + 8*x**2. What is the second derivative of i(y) wrt y?", "answer": "-150*y"}
+{"index": 61, "question": "Let p(r) be the second derivative of 1/30*r**6 + 0*r**3 + 0*r**5 + r**2 - r + 0*r**4 + 0. What is the first derivative of p(v) wrt v?", "answer": "4.0*v**3"}
+{"index": 62, "question": "Find the third derivative of -139286*l**3 + 4*l**2 + 7*l + 1326.", "answer": "-835716"}
+{"index": 63, "question": "Differentiate -p**4*t - 79*p**3 + 7*p*t - 26861*t - 3 wrt p.", "answer": "-4*p**3*t - 237*p**2 + 7*t"}
+{"index": 64, "question": "What is the derivative of 269724*k**3 + 659265?", "answer": "809172*k**2"}
+{"index": 65, "question": "Suppose 46 = 5*o - 14. Let p be (2/(-2))/((-4)/o). What is the third derivative of 9*u**3 + p*u**2 + 0*u**4 - 9*u**3 - 4*u**4 wrt u?", "answer": "-96*u"}
+{"index": 66, "question": "Let x(t) be the first derivative of 56 - 5/2*t**2 + 1/3*t**3 + 4*t. Factor x(a).", "answer": "4.0*(0.25*a - 1.0)*(1.0*a - 1.0)"}
+{"index": 67, "question": "Find the third derivative of -840116177*b**3 - 821802931*b**2 wrt b.", "answer": "-5040697062"}
+{"index": 68, "question": "Find the first derivative of -2*b**3*q*s - 3*b**3*q + 13*b**3*s**2 - 318*b**2*q + 61*b*q*s + b*q wrt s.", "answer": "-2*b**3*q + 26*b**3*s + 61*b*q"}
+{"index": 69, "question": "Let a(m) be the first derivative of -m**5/25 + m**4/5 - m**3/3 + m**2/5 + 39. Factor a(y).", "answer": "-y*(y - 2)*(y - 1)**2/5"}
+{"index": 70, "question": "What is the third derivative of -8*k**2*r**3 + 147*k**2*r - 15177*k*r**3 + 450*k*r**2 wrt r?", "answer": "-6*k*(8*k + 15177)"}
+{"index": 71, "question": "Let s(r) be the second derivative of r**4/6 + 25*r**3/6 + 13*r**2/2 + 311*r. Give s(-12).", "answer": "1"}
+{"index": 72, "question": "Find the third derivative of 49*s**2 + 7*s**2 - 180*s**3 + 183*s**3 + 14*s**5 wrt s.", "answer": "6*(140*s**2 + 3)"}
+{"index": 73, "question": "Let l(h) be the third derivative of 22*h**5/15 + 11*h**4/24 - 3*h**3/2 + 6*h**2. Let v be l(4). Let w = 2284 - v. Is w a composite number?", "answer": "True"}
+{"index": 74, "question": "Let z(i) be the third derivative of i**9/63 + 3*i**5/20 - 3*i**2. What is the third derivative of z(w) wrt w?", "answer": "960*w**3"}
+{"index": 75, "question": "Let j(b) = -261*b**4 - 6*b**3 + 6*b - 197. Let v(s) = -2*s**4 - s**3 + s - 1. Let c(d) = j(d) - 6*v(d). Find the first derivative of c(a) wrt a.", "answer": "-996*a**3"}
+{"index": 76, "question": "What is the derivative of 409400484*s**4 - 238314658?", "answer": "1637601936*s**3"}
+{"index": 77, "question": "Find the second derivative of -2*t**5 - 5*t**4 - 1708*t**2 - 721*t - 4217 wrt t.", "answer": "-4*(10*t**3 + 15*t**2 + 854)"}
+{"index": 78, "question": "What is the first derivative of c**3*n**3 + 340*c**3 - 140*c**2*n**3 wrt n?", "answer": "3*c**3*n**2 - 420*c**2*n**2"}
+{"index": 79, "question": "Find the first derivative of 12*h**3 + 19602*h**2 - h + 747291 wrt h.", "answer": "36*h**2 + 39204*h - 1"}
+{"index": 80, "question": "Let c(u) be the second derivative of -257*u**4/4 + 443*u**3/3 - 227*u. What is the second derivative of c(o) wrt o?", "answer": "-1542"}
+{"index": 81, "question": "Let b(n) be the first derivative of -n**5/45 + n**4/36 + n**3/9 - 5*n**2/18 + 2*n/9 + 478. Find j such that b(j) = 0.", "answer": "[-2, 1]"}
+{"index": 82, "question": "Let j(k) be the second derivative of -k**4/6 - k**3/3 + 2*k**2 - 11*k. Let u = 5 - 2. Calculate j(u).", "answer": "-20"}
+{"index": 83, "question": "Let b(a) be the third derivative of -a**6/10 + a**5/60 + a**4/24 - a**2. Let c be b(-1). Suppose -k - k = -c. Solve 5*y = -t + 2, -k = 3*y - 0*y - 3*t for y.", "answer": "0"}
+{"index": 84, "question": "Suppose -5*d + 122 = 8*w - 4*w, -3*d = -3*w - 57. Let q(v) be the second derivative of -v**3/6 - 7*v. What is the remainder when d is divided by q(-8)?", "answer": "6"}
+{"index": 85, "question": "What is the second derivative of -914*f**2*m**2*o**3 - 2*f**2*m*o**3 - f**2*m*o**2 - f**2*m + 2*f*m*o - 355*f*o - 2*m**2*o**3 wrt m?", "answer": "-4*o**3*(457*f**2 + 1)"}
+{"index": 86, "question": "Find the third derivative of -419*d*k**3 + 2*d*k**2 + 152247*k**3 + 5249443 wrt k.", "answer": "6*(152247 - 419*d)"}
+{"index": 87, "question": "Suppose 0 = 2*r + 4*q - 152, q = -4*q. Let p = r + -54. What is the third derivative of -19*w**2 - w**2 + p*w**2 - 26*w**6 wrt w?", "answer": "-3120*w**3"}
+{"index": 88, "question": "Let q(k) = -4*k**3 - 2*k**2 + 2*k - 1. Let m(c) = -3169*c**3 + 8*c**2 + 36*c + 29. Let s(o) = -m(o) - 4*q(o). What is the second derivative of s(l) wrt l?", "answer": "19110*l"}
+{"index": 89, "question": "What is the second derivative of 34799836*l**5 + 3*l + 8867830 wrt l?", "answer": "695996720*l**3"}
+{"index": 90, "question": "Let u = -443/210 - -15/7. Let r(x) be the third derivative of 0 - u*x**5 - 2*x**2 + 1/12*x**4 + 0*x**3 + 0*x. Find c such that r(c) = 0.", "answer": "[0.0, 1.00000000000000]"}
+{"index": 91, "question": "Differentiate 40317*p**4 - 19405 wrt p.", "answer": "161268*p**3"}
+{"index": 92, "question": "Find the third derivative of 2107*l**5*x - 124*l**2 + 18*x wrt l.", "answer": "126420*l**2*x"}
+{"index": 93, "question": "Differentiate 1093*w**3 - 5*w + 11972 with respect to w.", "answer": "3279*w**2 - 5"}
+{"index": 94, "question": "What is the third derivative of -9566*o**5 - 87*o**4 - 2*o**3 + 13124450*o**2 wrt o?", "answer": "-12*(47830*o**2 + 174*o + 1)"}
+{"index": 95, "question": "What is the third derivative of 2*g**6 - 566383*g**5 + 1498455*g**2?", "answer": "60*g**2*(4*g - 566383)"}
+{"index": 96, "question": "Let j(z) be the first derivative of 5/2*z**2 + 4 + 2*z. Find the first derivative of j(b) wrt b.", "answer": "5.00000000000000"}
+{"index": 97, "question": "Let u be 3/2*48/18. Let a(b) = -b**2 + 3*b + 6. Let s be a(u). Find the third derivative of l**s + 3*l**2 + 5*l**2 + 7*l**6 wrt l.", "answer": "840*l**3"}
+{"index": 98, "question": "Suppose 0 = -3*f + 2 + 10. Suppose -f*s - s + 30 = 0. Let w(q) be the third derivative of -q**6/120 + q**5/12 + 7*q**4/24 - 2*q**3/3 - 6*q**2. Calculate w(s).", "answer": "2"}
+{"index": 99, "question": "Let c(a) be the second derivative of 1/20*a**5 + 7/6*a**4 + 0 + 49/6*a**3 + 0*a**2 - 36*a. Suppose c(m) = 0. Calculate m.", "answer": "[-7.00000000000000, 0.0]"}
+{"index": 100, "question": "Find the second derivative of h*k**2*m - 3*h*k**2 + h*k*m - 33*h*k - 2*h*m + 562*k**2 - k*m - 4*m wrt k.", "answer": "2*(h*m - 3*h + 562)"}
+{"index": 101, "question": "Let c(p) = 2 - p. Let v(z) = 21 - 3*z. Let s(o) = -66*c(o) + 6*v(o). Differentiate s(a) wrt a.", "answer": "48"}
+{"index": 102, "question": "Find the third derivative of 32*v**6 - 22*v**4 - v**2 - 310*v + 1 wrt v.", "answer": "48*v*(80*v**2 - 11)"}
+{"index": 103, "question": "What is the second derivative of 13*k**3 + 2*k**2*o + 4*k**2 + k*o - k + 25*o wrt k?", "answer": "2*(39*k + 2*o + 4)"}
+{"index": 104, "question": "Let y be (-4 - 20/(-4))*0. Let b(s) be the second derivative of 0*s**2 + 1/21*s**4 + 1/147*s**7 + y*s**3 + 0*s**6 + 0 - 11*s - 3/70*s**5. Factor b(p).", "answer": "0.571428571428571*p**2*(0.5*p + 1.0)*(1.0*p - 1.0)**2"}
+{"index": 105, "question": "Find the third derivative of 26*b**3*c**3 + 38*b**3*c**2*h + b**2*c**2*h - 2*b*c**3*h - b*h - 5*b + 2*c**2*h wrt b.", "answer": "12*c**2*(13*c + 19*h)"}
+{"index": 106, "question": "Suppose 5*d = -5*o + 70, 4*d - 54 = -o - 4*o. What is the second derivative of 28*t**4 + d*t - 9*t + 24*t wrt t?", "answer": "336*t**2"}
+{"index": 107, "question": "Let q be 10*(36/8 + (-8)/2). Find the second derivative of -47*n + 20*n**q + 2*n**2 - 119*n + 271*n wrt n.", "answer": "400.0*n**3.0 + 4"}
+{"index": 108, "question": "Suppose 7*n + 16 = 15*n. Find the second derivative of -7*g**5 - 6*g + 0*g**4 + 6*g**4 + 34*g - n*g**4 wrt g.", "answer": "4*g**2*(12 - 35*g)"}
+{"index": 109, "question": "Differentiate 8251480*a*u + 2*a + 292895473*u with respect to a.", "answer": "8251480*u + 2"}
+{"index": 110, "question": "Find the third derivative of -18*p**3 + 34*p**2 + 16*p**2 - 26*p**2 wrt p.", "answer": "-108"}
+{"index": 111, "question": "Suppose 3*v - 36 = -0. Differentiate 3*y + 19*y + v*y + 25 with respect to y.", "answer": "34"}
+{"index": 112, "question": "Suppose 9*p + 81 = 4*p + c, -3*p - 5*c = 43. Let i = p + 20. Find the first derivative of r**2 - i - r**2 - 2 - 3*r**3 wrt r.", "answer": "-9*r**2"}
+{"index": 113, "question": "Find the third derivative of -s**2*z**4 + 2*s**2 - 56*s*z**2 + 14*z**6 wrt z.", "answer": "24*z*(-s**2 + 70*z**2)"}
+{"index": 114, "question": "Let g(y) = 9*y**4 + 25*y**2 + 6. Let s(d) = 1 - d**4. Let x(t) = -g(t) + 6*s(t). What is the third derivative of x(f) wrt f?", "answer": "-360*f"}
+{"index": 115, "question": "Let o(q) = -4344*q**5 + 5*q**3 - 8447*q**2. Let m(a) = -2173*a**5 + 3*a**3 - 4222*a**2. Let l(f) = -5*m(f) + 3*o(f). What is the third derivative of l(n) wrt n?", "answer": "-130020*n**2"}
+{"index": 116, "question": "What is the derivative of 13*p**3*x + 167*p**3 - 3*p**2*x**2 - x**2 wrt x?", "answer": "13*p**3 - 6*p**2*x - 2*x"}
+{"index": 117, "question": "Let k(b) be the second derivative of b**5/20 + 17*b**4/12 + 8*b**3/3 - 29*b**2/2 + 5*b. Let d be k(-16). What is the tens digit of (d/4)/((-3)/12)?", "answer": "2"}
+{"index": 118, "question": "Let b(l) = 2*l**3 + 2*l - 1. Let i be 4 - 1 - (-4 + 3). Let c(o) = o + 2 + 1 - i + o**3. Let y(v) = -b(v) + c(v). Find the second derivative of y(h) wrt h.", "answer": "-6*h"}
+{"index": 119, "question": "What is the second derivative of -24593*j**2 + 3 + 48939*j**2 - 27671*j**2 - 37*j wrt j?", "answer": "-6650"}
+{"index": 120, "question": "What is the third derivative of b*w**4 - 126*b*w**2 - b*w - 4937*w**5 + 2*w**2 + w wrt w?", "answer": "12*w*(2*b - 24685*w)"}
+{"index": 121, "question": "Let o(p) = p**3 + 10*p**2 + 2. Let y be o(-10). Find the second derivative of -l**5 - 2*l + 0*l - y*l**5 wrt l.", "answer": "-60*l**3"}
+{"index": 122, "question": "Let o(k) be the third derivative of 1/24*k**4 + 1/210*k**7 - 1/18*k**3 - 1/1008*k**8 + 0*k + 0 - 2*k**2 - 1/180*k**6 - 1/90*k**5. Factor o(l).", "answer": "-0.333333333333333*(1.0*l - 1.0)**4*(1.0*l + 1.0)"}
+{"index": 123, "question": "Find the first derivative of 1893*v**3 + 1551.", "answer": "5679*v**2"}
+{"index": 124, "question": "Let c(v) be the third derivative of v**4/6 + v**3/6 + v**2. Give c(5).", "answer": "21"}
+{"index": 125, "question": "Suppose 40*k - 36*k = 32. Find the third derivative of k*g + 4*g**2 - 18*g + 10*g - 2*g**4 wrt g.", "answer": "-48*g"}
+{"index": 126, "question": "Let p(u) be the third derivative of -2*u**2 + 1/24*u**4 + 4/3*u**3 + 0*u + 0. Determine p(-6).", "answer": "2.00000000000000"}
+{"index": 127, "question": "What is the third derivative of -5*w - 4*w + 15*w**4 + 9*w - 4*w**2 wrt w?", "answer": "360*w"}
+{"index": 128, "question": "Let b(c) = -2*c - 4. Let q(r) be the second derivative of -r**3/6 - r**2 + 2*r. Let p(h) = 6*b(h) - 11*q(h). Find the first derivative of p(w) wrt w.", "answer": "-1"}
+{"index": 129, "question": "Suppose u - 15 = 11. Differentiate u - 15 + 8*l + 5*l - 22 with respect to l.", "answer": "13"}
+{"index": 130, "question": "Find the second derivative of -12*b**2 - 3*b**5 + 12*b**2 + 42*b - 11*b wrt b.", "answer": "-60*b**3"}
+{"index": 131, "question": "Let c be 1 + (-2 - -1) - 0. Let h(j) be the first derivative of -j**4/4 + j + 92. Give h(c).", "answer": "1"}
+{"index": 132, "question": "What is the third derivative of -348*b**4*j**3 + b**4*j + b**2*j**3 + 854*b**2*j**2 wrt b?", "answer": "24*b*j*(1 - 348*j**2)"}
+{"index": 133, "question": "Let y(k) be the second derivative of k**5/20 - 5*k**4/12 - 7*k**3/3 - 5*k**2 + 3*k + 63. Determine y(7).", "answer": "-10"}
+{"index": 134, "question": "Let o(u) be the first derivative of 26*u**3/3 + 35*u + 26. What is the first derivative of o(f) wrt f?", "answer": "52*f"}
+{"index": 135, "question": "Find the third derivative of -267185*a**4 + 3*a**2 - 270*a - 28 wrt a.", "answer": "-6412440*a"}
+{"index": 136, "question": "Let s be (2 - 5)/(6/(-4)). Let i(t) be the first derivative of -s - t + t**4 - 14*t**3 + 14*t**3. Differentiate i(j) with respect to j.", "answer": "12*j**2"}
+{"index": 137, "question": "Let t(q) be the third derivative of -q**5/20 + q**4/12 + q**3/6 + 9*q**2. What is t(-1)?", "answer": "-4"}
+{"index": 138, "question": "What is the third derivative of -155*c**2*p**5 - 23*c**2 + c*p**2 wrt p?", "answer": "-9300*c**2*p**2"}
+{"index": 139, "question": "Suppose c + 2 = 4*f, 2*c - 5*c + 9 = 3*f. Find the third derivative of -4*z**c - 15*z**2 - 23*z**4 + 11*z**2 wrt z.", "answer": "-552*z"}
+{"index": 140, "question": "Find the third derivative of 19735*h*j**3*x**2 - 3*h*j**2*x**3 - 2*h*j*x**3 + j**3*x**3 + j**3*x - 14*j**2*x**3 + 10*j**2*x**2 wrt j.", "answer": "6*x*(19735*h*x + x**2 + 1)"}
+{"index": 141, "question": "Let r be -3 - 0 - (4 + -9). Let j(a) be the second derivative of 0 + 1/3*a**3 + 0*a**r - 2*a + 1/20*a**5 - 1/4*a**4. Let j(o) = 0. Calculate o.", "answer": "[0.0, 1.00000000000000, 2.00000000000000]"}
+{"index": 142, "question": "What is the third derivative of -1243756*y**3 + 88968*y**2 + 5 wrt y?", "answer": "-7462536"}
+{"index": 143, "question": "Let n(t) be the first derivative of 2*t**5/5 + 35*t**4/2 - 405*t**3 + 440. What is the third derivative of n(i) wrt i?", "answer": "12*(4*i + 35)"}
+{"index": 144, "question": "Find the second derivative of -49667443*c**3 + 196929996*c.", "answer": "-298004658*c"}
+{"index": 145, "question": "Let k(z) be the first derivative of -2*z**3/3 + 42*z**2 - 882*z - 120. Let k(f) = 0. What is f?", "answer": "[21]"}
+{"index": 146, "question": "Let o(u) be the second derivative of 1/96*u**4 + 169/16*u**2 + 0 - 31*u - 13/24*u**3. Factor o(l).", "answer": "21.125*(0.0769230769230769*l - 1.0)**2"}
+{"index": 147, "question": "Differentiate -6967582*o**4 - 5*o**2 - 35463058 wrt o.", "answer": "-27870328*o**3 - 10*o"}
+{"index": 148, "question": "Let q(f) be the third derivative of 13*f**5/60 + 7*f**4/24 + 31*f**3/6 - 36*f**2. Is q(12) a composite number?", "answer": "False"}
+{"index": 149, "question": "Let j(x) be the third derivative of x**6/60 + x**5/12 + 7*x**2. What is the third derivative of j(n) wrt n?", "answer": "12"}
+{"index": 150, "question": "Let x(k) be the first derivative of 15*k + 0*k**3 - 10 + 5/4*k**4 + 0*k**2. Differentiate x(w) wrt w.", "answer": "15.0*w**2"}
+{"index": 151, "question": "Let q(p) = p**2 - 6*p + 1. Let l be q(6). Suppose -x + l = -1. Differentiate -2*y**4 + 0*y**x + 1 + 0*y**2 + 2 with respect to y.", "answer": "-8*y**3"}
+{"index": 152, "question": "Suppose -3*w + 101 = 2*a, -25*a + 23*a + 104 = 2*w. Find the third derivative of a - 1065*j**6 + 1096*j**6 - 2*j**2 + 0*j**2 wrt j.", "answer": "3720*j**3"}
+{"index": 153, "question": "Differentiate -77312*b**4 - 74184.", "answer": "-309248*b**3"}
+{"index": 154, "question": "Let f = -2 + 5. Let p(w) be the first derivative of w**3/3 - w**2 + w + 24. Let k be p(f). Let o(h) = -h**3 + 3*h**2 + 3*h - 3. Determine o(k).", "answer": "-7"}
+{"index": 155, "question": "Let n(y) be the first derivative of -y**3/3 + 2*y**2 - 2*y + 41. Give n(2).", "answer": "2"}
+{"index": 156, "question": "Let n(v) be the third derivative of -v**6/120 + 47*v**5/60 + 3*v**4/4 + 4697*v**3/6 + 4259*v**2. What is the derivative of n(j) wrt j?", "answer": "-3*j**2 + 94*j + 18"}
+{"index": 157, "question": "Let g(j) be the second derivative of 3*j**8/56 + 157*j**6/30 + 151*j**4/6 + 147*j + 3. What is the third derivative of g(w) wrt w?", "answer": "12*w*(30*w**2 + 314)"}
+{"index": 158, "question": "Let j(b) be the second derivative of b**5/20 + 7*b**4/12 + b**2 - 2*b. Let y = -27 + 28. Calculate the remainder when j(-7) is divided by y.", "answer": "0"}
+{"index": 159, "question": "What is the third derivative of -218*f**2 + 118*f**2 + 401*f + 80*f**3 + 102*f**2 + 219*f wrt f?", "answer": "480"}
+{"index": 160, "question": "Find the second derivative of 634777*c**3*u**3 + c**2*u**3 + 2*c*u**2 - 3*c + u**3 + 1273*u**2 + 46*u wrt c.", "answer": "2*u**3*(1904331*c + 1)"}
+{"index": 161, "question": "Find the second derivative of -l**2*r**2 - 2*l**2*r + 50989*l**2 + 788*l*r**3 + 2*l wrt r.", "answer": "2*l*(-l + 2364*r)"}
+{"index": 162, "question": "Let s(k) be the first derivative of -3*k**5/20 + 105*k**4/16 - 99*k**3 + 486*k**2 + 1296*k + 1362. Factor s(l).", "answer": "-3*(l - 12)**3*(l + 1)/4"}
+{"index": 163, "question": "Let f(t) be the third derivative of t**7/140 + 3*t**6/80 - 3*t**5/40 - 11*t**4/16 - 3*t**3/2 + 37*t**2. Solve f(h) = 0.", "answer": "[-3, -1, 2]"}
+{"index": 164, "question": "Let b(d) be the third derivative of d**5/300 + d**4/40 + d**3/15 + 634*d**2. Solve b(k) = 0 for k.", "answer": "[-2, -1]"}
+{"index": 165, "question": "Find the third derivative of 408*d**2*r**4 + 2*d**2 - 170*d*r**4 + 2*d*r**2 - 1732*d*r + d - 7 wrt r.", "answer": "816*d*r*(12*d - 5)"}
+{"index": 166, "question": "What is the third derivative of 1109*r**3 + 5558*r**2 + 4*r wrt r?", "answer": "6654"}
+{"index": 167, "question": "Let b(m) = -m**3 - 12*m**2 + 6*m - 59. Let l be b(-13). What is the third derivative of 80*w**6 + 201*w**2 + 150*w**6 - l*w**6 wrt w?", "answer": "23760*w**3"}
+{"index": 168, "question": "What is the derivative of 15*q*x + 3*q + 320*x wrt q?", "answer": "15*x + 3"}
+{"index": 169, "question": "Let c(i) be the first derivative of 0*i**3 - 15/2*i**2 + 0*i - 11/2*i**4 - 18. Find the second derivative of c(v) wrt v.", "answer": "-132.0*v"}
+{"index": 170, "question": "Let w be (0 - (-6)/5)/((-9)/(-30)). Find the first derivative of 31 + 10*q**4 + 28*q**4 - 3*q**w wrt q.", "answer": "152*q**3 - 12.0*q**3.0"}
+{"index": 171, "question": "Suppose -4*d - 95 - 17 = 0. Let c be (-4)/d - 188/(-7). Differentiate 3*o**3 - 12*o**3 + c - 28 with respect to o.", "answer": "-27*o**2"}
+{"index": 172, "question": "What is the third derivative of 735*s**4 - s**3 - 378*s**2?", "answer": "6*(2940*s - 1)"}
+{"index": 173, "question": "Let q(m) be the second derivative of m**5/20 - m**4/4 - m**3/3 + m**2/2 + 23*m + 1. Suppose 6*d - 2*d = 8. Give q(d).", "answer": "-7"}
+{"index": 174, "question": "Let s(w) = 51*w**4 - 21*w**3 - 21*w**2 + 81. Let g(z) = 10*z**4 - 4*z**3 - 4*z**2 + 16. Let j(d) = -21*g(d) + 4*s(d). Differentiate j(o) wrt o.", "answer": "-24*o**3"}
+{"index": 175, "question": "Differentiate 157*x - 327 with respect to x.", "answer": "157"}
+{"index": 176, "question": "Let c = 23 + -67. Let u be (3*1)/((-33)/c). What is the second derivative of u*t - 5*t**2 + 0 + 0 - 7*t wrt t?", "answer": "-10"}
+{"index": 177, "question": "Let l be -19 - -12 - 85/(-12). Let t(n) be the third derivative of -l*n**4 + 8*n**2 + 0*n + 0 - 1/20*n**5 - 1/3*n**3. What is t(-2)?", "answer": "-10.0000000000000"}
+{"index": 178, "question": "Suppose -1 = -i + 1. What is the second derivative of -u**3 + 0 + 6*u - i + 2 wrt u?", "answer": "-6*u"}
+{"index": 179, "question": "Find the second derivative of 36*f*o*u**2 - 8*f*o*u + 11201*f*o - f*u**2 - f*u + 1036*o*u**2 - 3*o*u + 12*u**2 wrt u.", "answer": "2*(36*f*o - f + 1036*o + 12)"}
+{"index": 180, "question": "What is the first derivative of 7*b*j**3 + 2032*b + 236*j**3 + j**2 - 3 wrt j?", "answer": "21*b*j**2 + 708*j**2 + 2*j"}
+{"index": 181, "question": "Find the second derivative of 57*w - 1328*w**2 - 290*w - 958*w wrt w.", "answer": "-2656"}
+{"index": 182, "question": "Find the third derivative of -5*g*i**4 - 48*g*i**3 - g*i**2 - 2*g*i - 1541*g + 21*i**4 - 5*i**3 - 111*i**2 wrt i.", "answer": "6*(-20*g*i - 48*g + 84*i - 5)"}
+{"index": 183, "question": "Let r(p) be the first derivative of 1/3*p**3 + 6 + 8*p - 9/2*p**2. Let o be r(8). Is 1/3 less than or equal to o?", "answer": "False"}
+{"index": 184, "question": "Let j(d) be the third derivative of d**5/15 - d**4/8 - 17*d**3/6 - 4*d**2. Let f be 12/10*((-112)/(-12) + -6). Is j(f) a multiple of 7?", "answer": "True"}
+{"index": 185, "question": "Differentiate 2*k**4 + 89783*k - 10630.", "answer": "8*k**3 + 89783"}
+{"index": 186, "question": "Let h(o) be the third derivative of 2*o**2 + 0*o**5 - 1/60*o**6 + 0*o**3 + 0*o + 0 + 1/6*o**4. What is the second derivative of h(r) wrt r?", "answer": "-12.0*r"}
+{"index": 187, "question": "Find the third derivative of 15093*b*g**3 + 622*b*g + g**3 - 2*g**2 wrt g.", "answer": "6*(15093*b + 1)"}
+{"index": 188, "question": "Let c(o) be the second derivative of -5*o**4/6 - 51*o**2 - 4*o + 1. What is the first derivative of c(x) wrt x?", "answer": "-20*x"}
+{"index": 189, "question": "Let s = -183 - -116. Let p = s - -508. Find the third derivative of -441*i + p*i - 12*i**3 - 6*i**2 wrt i.", "answer": "-72"}
+{"index": 190, "question": "Let r(b) be the first derivative of b**6/6 - b**4/2 + b**2/2 - 4. Find n such that r(n) = 0.", "answer": "[-1, 0, 1]"}
+{"index": 191, "question": "Let d(j) = -4*j**2 + 8*j. Let f(w) = -13*w**2 + 25*w. Suppose 5*z = z - 32. Let u(b) = z*d(b) + 3*f(b). What is the second derivative of u(a) wrt a?", "answer": "-14"}
+{"index": 192, "question": "What is the first derivative of 3858286 - 19632755*w**2?", "answer": "-39265510*w"}
+{"index": 193, "question": "What is the first derivative of -b*o*q - 9*b*o + 100506*b + o*q + 715*o + q wrt o?", "answer": "-b*q - 9*b + q + 715"}
+{"index": 194, "question": "Suppose 0 = 2*a - 0*a - 160. Suppose -4*v + 4*n + n = -a, 27 = v - 3*n. What is the second derivative of v*y - 7*y - 4*y**2 - 9*y wrt y?", "answer": "-8"}
+{"index": 195, "question": "What is the first derivative of 504*r - 574 - 1196*r**3 - 504*r wrt r?", "answer": "-3588*r**2"}
+{"index": 196, "question": "Let v(b) be the first derivative of 2*b**5 - b**4/4 - 40*b - 52. What is the derivative of v(q) wrt q?", "answer": "40*q**3 - 3*q**2"}
+{"index": 197, "question": "Let m(r) be the second derivative of r**6/15 - 11*r**4/4 + 353*r**3/2 + r**2/2 - 148*r. Find the second derivative of m(s) wrt s.", "answer": "6*(4*s**2 - 11)"}
+{"index": 198, "question": "Find the second derivative of 17 + 17 - v**5 + 12*v - 34 wrt v.", "answer": "-20*v**3"}
+{"index": 199, "question": "Let c(l) be the second derivative of l**5/20 + l**4/6 + l**3/6 - l**2/2 + 190*l. Calculate c(-4).", "answer": "-37"}
+{"index": 200, "question": "Let i(y) be the second derivative of y**6/30 - 3*y**5/20 - 5*y**4/4 - 17*y**3/6 - 3*y**2 + 2*y + 39. Factor i(m).", "answer": "(m - 6)*(m + 1)**3"}
+{"index": 201, "question": "Let p(b) be the third derivative of 4*b**7/245 - b**6/60 - 31*b**5/210 - 2*b**4/21 + 4*b**3/21 - 6*b**2. Let p(g) = 0. What is g?", "answer": "[-1, -2/3, 1/4, 2]"}
+{"index": 202, "question": "Let s = 5548 + -5545. Let v(n) be the first derivative of 0*n - 36/5*n**5 - 5/3*n**6 + 1 + 16/3*n**s + 0*n**2 - 6*n**4. Find b, given that v(b) = 0.", "answer": "[-2.00000000000000, 0.0, 0.400000000000000]"}
+{"index": 203, "question": "Find the third derivative of -33*d**3*l**2 - d**3 + 2*d**2*l**2 - 3*l**2 + 49*l wrt d.", "answer": "-6*(33*l**2 + 1)"}
+{"index": 204, "question": "Let v(g) be the second derivative of -g**4/6 + g**3/2 + g**2 - 18*g - 3. Suppose 0 = 2*a - 11 + 5. Calculate v(a).", "answer": "-7"}
+{"index": 205, "question": "Let g(d) be the first derivative of 0*d + 5 + 0*d**2 + 3/4*d**4 - 5/3*d**3. Find the third derivative of g(q) wrt q.", "answer": "18.0000000000000"}
+{"index": 206, "question": "What is the second derivative of -7*k**2*r**2 + 182*k**2*r*t - 5*k**2*r - k*r*t + 9998*r**3*t + 3*r**3 - 37*r*t + 2*r wrt r?", "answer": "2*(-7*k**2 + 29994*r*t + 9*r)"}
+{"index": 207, "question": "Let x be 3*2*2/6. Find the third derivative of 21*s**2 - 16*s**2 - x*s**4 - 14*s**2 wrt s.", "answer": "-48.0*s"}
+{"index": 208, "question": "Suppose w + 0 - 2 = 0. Find the second derivative of -3*j + 8*j**w + 3*j**3 - 8*j**2 wrt j.", "answer": "18*j"}
+{"index": 209, "question": "Let o(g) = -g**3 - 4*g**2 + 4*g. Let w be o(-5). Let b = -9 + w. Let k(d) be the first derivative of d**4/4 + d**3 - 5*d**2/2 - 2*d + 1. Calculate k(b).", "answer": "2"}
+{"index": 210, "question": "Let n(m) = m**6 + m**4 - m**2 + m - 1. Let z(k) = -k**6 - 3*k**4 + k**2 - 49*k + 3. Let u(l) = -3*n(l) - z(l). What is the third derivative of u(s) wrt s?", "answer": "-240*s**3"}
+{"index": 211, "question": "Let a be 4/22 - 20*(-18)/(-165). Let d(i) = -1. Let p(h) be the second derivative of h**3/6 + 9*h. Let x(q) = 2*d(q) - 2*p(q). Calculate x(a).", "answer": "2.00000000000000"}
+{"index": 212, "question": "What is the third derivative of -11*j**4 + 8514*j**3 - 2813577*j**2 wrt j?", "answer": "132*(387 - 2*j)"}
+{"index": 213, "question": "What is the derivative of 25*m**2*r**3 - 2*m**2 - 65*m*r**3 + 3*r**3 + 3272*r**2 + 16*r wrt m?", "answer": "50*m*r**3 - 4*m - 65*r**3"}
+{"index": 214, "question": "Let k(w) = 23*w - 30. Let u(m) = -3 - 59 + 89*m - 32*m - 13. Let c(g) = -12*k(g) + 5*u(g). Find the first derivative of c(p) wrt p.", "answer": "9"}
+{"index": 215, "question": "Let k(x) be the second derivative of x**7/14 - x**6 + 27*x**5/5 - 29*x**4/2 + 43*x**3/2 - 18*x**2 - 2*x + 9. What is i in k(i) = 0?", "answer": "[1, 3, 4]"}
+{"index": 216, "question": "What is the second derivative of 32*h**4 + 6*h**2 - 66*h - 2 wrt h?", "answer": "12*(32*h**2 + 1)"}
+{"index": 217, "question": "Let w(i) be the first derivative of -3*i**5/20 - 15*i**4/8 - 9*i**3 - 81*i**2/4 - 81*i/4 + 6789. Factor w(u).", "answer": "-3*(u + 1)*(u + 3)**3/4"}
+{"index": 218, "question": "Find the third derivative of 38820607*h**3 + 135020597*h**2.", "answer": "232923642"}
+{"index": 219, "question": "Differentiate 1523 - 649 - 158 - 3*g + 1635 + 779 - 90*g**2 with respect to g.", "answer": "-180*g - 3"}
+{"index": 220, "question": "Let t(v) be the third derivative of -v**4/24 + 3*v**2. Let u(q) = 2*q - 2. Let k(z) = -3*t(z) - u(z). Find the first derivative of k(l) wrt l.", "answer": "1"}
+{"index": 221, "question": "Let d(f) = 36 - 2*f. Let o be d(18). Let b(n) be the second derivative of -n**2 - 6*n + o - 1/6*n**3. Determine b(5).", "answer": "-7.00000000000000"}
+{"index": 222, "question": "Let c(h) = 1 - h. Let d(n) be the third derivative of -n**5/10 - 2*n**4/3 + n**3 - 19*n**2. Let p(o) = 6*c(o) - d(o). Find the second derivative of p(f) wrt f.", "answer": "12"}
+{"index": 223, "question": "Let h be 2*(-3 + (-14)/(-4)). Let m = 2 + h. What is the derivative of -1 + 1 + m*d**3 + 2 wrt d?", "answer": "9.0*d**2"}
+{"index": 224, "question": "What is the third derivative of 44*j**5*o**3 - 2*j**5 + 10*j**2*o**3 - 71*j**2*o - 2*j*o**2 + o wrt j?", "answer": "120*j**2*(22*o**3 - 1)"}
+{"index": 225, "question": "Let q(j) be the third derivative of 17*j**9/63 - 7*j**5/4 - j**4/12 + 128*j**2. Find the third derivative of q(z) wrt z.", "answer": "16320*z**3"}
+{"index": 226, "question": "Find the third derivative of 3762040*o**3 + 107953*o**2 + 6.", "answer": "22572240"}
+{"index": 227, "question": "What is the third derivative of -4*w**4 - 175446*w**3 + 2936489*w**2 wrt w?", "answer": "-12*(8*w + 87723)"}
+{"index": 228, "question": "Let x(k) be the first derivative of 9*k**4/2 + 14*k**3/3 + 4. What is the third derivative of x(u) wrt u?", "answer": "108"}
+{"index": 229, "question": "Let w(c) be the first derivative of 0*c**4 + 6/5*c**5 + 0*c**2 + 6 - 8/3*c**3 + 0*c. Find the third derivative of w(f) wrt f.", "answer": "144.0*f"}
+{"index": 230, "question": "Let z(w) be the third derivative of -w**5/60 + 7*w**2. Determine z(-2).", "answer": "-4"}
+{"index": 231, "question": "Let k(j) be the second derivative of 1/6*j**3 + 1/36*j**4 + 5*j + 0*j**2 + 0. Let k(a) = 0. Calculate a.", "answer": "[-3.00000000000000, 0.0]"}
+{"index": 232, "question": "What is the first derivative of -27*y**3 + 3*y**3 + 9*y**3 + 84 + 7*y**3 + 19*y + 7*y**3 wrt y?", "answer": "19 - 3*y**2"}
+{"index": 233, "question": "Suppose c = -6*c - 4*c. Let d(t) be the first derivative of t**3/3 - t**2/2 + 3*t + 4. Let y be d(c). Solve -2*k + 3*w = 2, -3*k - y*w = -0*k - 12 for k.", "answer": "2"}
+{"index": 234, "question": "Find the third derivative of -3*q**5 - 7*q**4*z - q**3 - 12*q**2 + z + 6 wrt q.", "answer": "-6*(30*q**2 + 28*q*z + 1)"}
+{"index": 235, "question": "Let a(r) be the third derivative of 2/15*r**6 + 0*r + 8/105*r**7 - 8*r**2 - 2/3*r**3 - 2/3*r**4 + 0 - 1/5*r**5. Factor a(y).", "answer": "16.0*(1.0*y - 1.0)*(1.0*y + 0.5)**2*(1.0*y + 1.0)"}
+{"index": 236, "question": "Differentiate -66295*p*y**2 + 29*p - 3*y**2 - 254979*y + 3 with respect to p.", "answer": "29 - 66295*y**2"}
+{"index": 237, "question": "Suppose 0 = 2*a + 2*a + 32. Let s(b) = 26*b - 26. Let f(l) = 17 - 17*l. Let g(o) = a*f(o) - 5*s(o). What is the first derivative of g(c) wrt c?", "answer": "6"}
+{"index": 238, "question": "Let d = -13784 + 13790. Let h(i) be the second derivative of 2*i**4 - 2/5*i**d + 0*i**2 + 0*i**3 + 0*i**5 + 0 - 32*i. Find the third derivative of h(s) wrt s.", "answer": "-288.0*s"}
+{"index": 239, "question": "Let c(d) = d + 1. Let z(k) = 6*k**4 - 7*k**2 + 5*k + 5. Let s(j) = 5*c(j) - z(j). What is the third derivative of s(i) wrt i?", "answer": "-144*i"}
+{"index": 240, "question": "Let o(z) = -z**3 + 2*z**2 - z - 1. Let h(i) = 19*i**3 - 3*i**2 + i - 32. Let u(y) = h(y) + o(y). What is the third derivative of u(x) wrt x?", "answer": "108"}
+{"index": 241, "question": "Let d(z) be the second derivative of z**4/12 + 7*z**3/6 - 3*z**2/2 - 70*z - 2. Let s = 0 - 6. Determine d(s).", "answer": "-9"}
+{"index": 242, "question": "Let l(x) be the second derivative of 11*x**6/10 - 9*x**4/4 + 41*x. Find the third derivative of l(r) wrt r.", "answer": "792*r"}
+{"index": 243, "question": "Let x(v) be the second derivative of -v**4/3 + 5*v**3/6 - 3*v**2/2 - 118*v + 2. Give x(2).", "answer": "-9"}
+{"index": 244, "question": "Suppose 11 = 3*s - 10. Let v be -2 + (s - 4) + 2. Differentiate -5*b**4 - 2 - b**3 + 6*b**v - 5*b**3 with respect to b.", "answer": "-20*b**3"}
+{"index": 245, "question": "Suppose 0 = -4*k - k + 15. Differentiate -1 + 0*z + k*z + 0 - 1 wrt z.", "answer": "3"}
+{"index": 246, "question": "Find the second derivative of 2*a**5 + 1450*a**2 + a + 2362 wrt a.", "answer": "20*(2*a**3 + 145)"}
+{"index": 247, "question": "Find the second derivative of -382501*k**3 - 260*k - 355 wrt k.", "answer": "-2295006*k"}
+{"index": 248, "question": "Let t(q) be the first derivative of q**6/24 - q**5/5 - q**4/16 + q**3/3 - 619. Factor t(c).", "answer": "c**2*(c - 4)*(c - 1)*(c + 1)/4"}
+{"index": 249, "question": "What is the derivative of 11404838 - 15678082*s wrt s?", "answer": "-15678082"}
+{"index": 250, "question": "Let x(k) be the first derivative of -k**4/4 + 10*k**3/3 + 25*k**2/2 + 7*k - 3. What is the tens digit of x(11)?", "answer": "6"}
+{"index": 251, "question": "Suppose -5*m = -8*m + 6. Let w(r) be the first derivative of 0*r + 1/2*r**4 + 0*r**2 + m + 1/3*r**3. Find the third derivative of w(y) wrt y.", "answer": "12.0000000000000"}
+{"index": 252, "question": "Let s(a) be the first derivative of 1/2*a**2 - 37 - 16*a. What is s(8)?", "answer": "-8.00000000000000"}
+{"index": 253, "question": "Let u(j) = -j**3 - j**2 + j - 1. Let h(b) = 12*b**6 - 2*b**3 + 9*b**2 + 2*b - 2. Let s(w) = h(w) - 2*u(w). Find the third derivative of s(a) wrt a.", "answer": "1440*a**3"}
+{"index": 254, "question": "Let k(q) = 501*q + 229. Let t(c) = -1251*c - 573. Let o be 15/6 + (-15)/(-6). Let v(z) = o*t(z) + 12*k(z). Differentiate v(a) with respect to a.", "answer": "-243.000000000000"}
+{"index": 255, "question": "Let g(w) be the third derivative of -1021*w**8/336 - 100*w**4/3 + 134*w**2 + 3*w + 2. Find the second derivative of g(q) wrt q.", "answer": "-20420*q**3"}
+{"index": 256, "question": "Let f be (2 + (-33)/3)/(-1). Let o(m) be the second derivative of -1/6*m**3 + 2*m + 5 + 9/2*m**2. Determine o(f).", "answer": "0"}
+{"index": 257, "question": "Let m(i) be the second derivative of -25/3*i**4 - 7/6*i**6 - 9/2*i**5 - 9 - 20/3*i**3 - 4*i + 0*i**2 - 5/42*i**7. Find p such that m(p) = 0.", "answer": "[-2.00000000000000, -1.00000000000000, 0.0]"}
+{"index": 258, "question": "Find the second derivative of -2494*p**2 - 4497*p wrt p.", "answer": "-4988"}
+{"index": 259, "question": "Suppose -6*f = -5*w - 12, 8*f - 6*f + 2*w = 4. Let y(t) be the first derivative of f - 5/3*t**3 + 0*t + 5/2*t**2. Suppose y(u) = 0. Calculate u.", "answer": "[0.0, 1.00000000000000]"}
+{"index": 260, "question": "Let p(u) = 4*u**4. Let t(r) = -1. Let o(w) = p(w) - 3*t(w). Find the first derivative of o(h) wrt h.", "answer": "16*h**3"}
+{"index": 261, "question": "Let m(i) be the third derivative of -i**6/20 - i**5/30 + i**4/18 + 21*i**2. Find c such that m(c) = 0.", "answer": "[-2/3, 0, 1/3]"}
+{"index": 262, "question": "Let b(w) be the second derivative of 0 + 6*w**3 + 7/5*w**5 + 57*w + 2/15*w**6 + 5*w**4 + 0*w**2. Factor b(s).", "answer": "36.0*s*(0.333333333333333*s + 1.0)**2*(1.0*s + 1.0)"}
+{"index": 263, "question": "What is the second derivative of 71*i**4 + 567*i**3 + 457*i**2 - 21*i - 1841246?", "answer": "2*(426*i**2 + 1701*i + 457)"}
+{"index": 264, "question": "What is the derivative of 32*k**3*y**2 + 425*k**3 + 8*k*y**3 wrt y?", "answer": "64*k**3*y + 24*k*y**2"}
+{"index": 265, "question": "Differentiate -125082*q**3*t - 6*q**3 + q**2*t - 9*q**2 + 17*q wrt t.", "answer": "-125082*q**3 + q**2"}
+{"index": 266, "question": "Differentiate -36*l**2 + 15*l - 1602 wrt l.", "answer": "15 - 72*l"}
+{"index": 267, "question": "Differentiate -a*u**3*y**2 - 20*a*u**2*y**2 + 15*a*u - 8*a + 2*u**3 with respect to y.", "answer": "-2*a*u**3*y - 40*a*u**2*y"}
+{"index": 268, "question": "Let y(s) be the second derivative of s**4/6 + s**3/6 + s**2/2 + 3*s - 26. Let d = -3 - -2. Determine y(d).", "answer": "2"}
