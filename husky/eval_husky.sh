@@ -7,6 +7,7 @@ export CACHE_DIR="cache"
 export TOKENIZERS_PARALLELISM=true
 
 DATASET_NAME="gsm8k"
+SUBTASK="none"
 if [[ $SUBTASK == "none" ]]; then
     ROOT_DIR="evals/${DATASET_NAME}"
 else
