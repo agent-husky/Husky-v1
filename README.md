@@ -1,7 +1,7 @@
 # Husky-v1
 This repository contains the official code for the first iteration of **Husky**, an open-source language agent that solves complex, multi-step reasoning tasks via tool use.
 
-[Paper](https://arxiv.org/abs/2406.06469) | [Website](https://agent-husky.github.io/) | [HuggingFace](https://huggingface.co/agent-husky)
+[Paper](https://arxiv.org/abs/2406.06469) | [Website](https://agent-husky.github.io/) | [Hugging Face](https://huggingface.co/agent-husky)
 
 **Husky-v1** addresses numerical, tabular and knowledge-based reasoning tasks.
 **Husky** iterates between two stages: 1) generating the next action to take towards solving a given task, and 2) executing the action using expert models and updating the current solution state.
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ## Download the models
-Visit our [HuggingFace collection](https://huggingface.co/collections/agent-husky/husky-v1-665545c3e6ea63012f35c518) for Husky-v1 and download the associated models.
+Visit our [Hugging Face collection](https://huggingface.co/collections/agent-husky/husky-v1-665545c3e6ea63012f35c518) for Husky-v1 and download the associated models.
 - [action generator (7B)](https://huggingface.co/agent-husky/husky-v1-action-llama2-7b)
 - [action generator (13B)](https://huggingface.co/agent-husky/husky-v1-action-llama2-13b)
 - [code generator](https://huggingface.co/agent-husky/husky-v1-code-deepseekcoder-7b-instruct)
@@ -62,7 +62,7 @@ DATASET_NAME="bamboogle"
 ```
 
 To run inference for Google DeepMind mathematics and MathQA, set `DATASET_NAME=lila` and choose `SUBTASK` from `deepmind_mathematics_{algebra/basicmath/calculus/muldiv/numbertheory}` or `mathqa_{gain/general/geometry/physics/probability}`.
-Note that we only provide `DROP*`, `IIRC*` and `HuskyQA` through our [HuggingFace space](https://huggingface.co/agent-husky).
+Note that we only provide `DROP*`, `IIRC*` and `HuskyQA` through our [Hugging Face space](https://huggingface.co/agent-husky).
 Download the datasets and add them as `test.jsonl` to their respective subfolders under the `dataset` folder.
 
 Running `run_husky.sh` will create a subfolder of the format `evals/bamboogle/${SAVE_DIR}`, where `SAVE_DIR` is the name of the directory you would like to store the inference outputs.
